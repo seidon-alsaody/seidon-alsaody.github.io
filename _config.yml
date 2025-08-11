@@ -26,7 +26,7 @@ author:
   name             : "Seidon Alsaody"
   pronouns         : "he/him"  
   bio              : "Senior Lecturer/Associate Professor in Mathematics"
-  location         : "Earth"
+  location         : #
   employer         : "Uppsala University"
   uri              : "https://www.uu.se/en/contact-and-organisation/staff?query=N9-61"
   email            : "seidon.alsaody@math.uu.se" 
