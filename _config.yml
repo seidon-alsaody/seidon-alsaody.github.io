@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "seidon.jpeg"
+  avatar           : "images/seidon.jpeg"
   name             : "Seidon Alsaody"
-  pronouns         : "he/him"  
+  pronouns         : "He/him"  
   bio              : "Senior Lecturer/Associate Professor in Mathematics"
   location         : #
   employer         : "Uppsala University"
