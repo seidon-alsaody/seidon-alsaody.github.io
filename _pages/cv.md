@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 <p>
-<a href="CV21oct2025.pdf" target="_blank">Here you can find my CV.</a>
+You can find my CV <a href="CV21oct2025.pdf" target="_blank"> here.</a>
 </p>
