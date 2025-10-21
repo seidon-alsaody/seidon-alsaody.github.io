@@ -6,5 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<a href="https://raw.githubusercontent.com/seidon-alsaody/CV21Oct2025.pdf">You can find my CV here! Notes</a>
+<p>
+<a href="CV21oct2025.pdf" target="_blank">Here you can find my CV.</a>
+</p>
